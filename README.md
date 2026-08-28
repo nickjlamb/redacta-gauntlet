@@ -14,6 +14,8 @@ scorecards, a CI-failing regression gate. Gaps named, boundaries owned.
 
 📊 **Full write-up with charts:** [pharmatools.ai/redacta-eval](https://www.pharmatools.ai/redacta-eval)
 
+Redacta itself, including production deployment options: [pharmatools.ai/redacta](https://www.pharmatools.ai/redacta)
+
 A false negative — one identifier that slips through — is a privacy breach, so
 recall is asymmetric and comes first; over-redaction is tracked as the cost,
 because a redactor that deletes the document scores perfect recall and is
